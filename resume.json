@@ -2,11 +2,10 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Phanupong Rangsanseri",
-    "label": "Programmer",
+    "label": "DevOps Engineer",
     "image": "",
     "email": "phanupong.ra@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "http://richardhendricks.example.com",
+    "phone": "(66) 86-349-3560",
     "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
     "location": {
       "address": "2712 Broadway St",
@@ -17,14 +16,14 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "LinkedIn",
+        "username": "Phanupong Rangsanseri",
+        "url": "https://www.linkedin.com/in/phanupongra/"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.example.com/dandymusicnl"
+        "network": "GitHub",
+        "username": "prangsa",
+        "url": "https://github.com/prangsa"
       }
     ]
   },
@@ -60,17 +59,13 @@
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "url": "https://www.ou.edu/",
+      "institution": "King Mongkut's Institute of Technology Ladkrabang",
+      "url": "kmitl.ac.th",
       "area": "Information Technology",
       "studyType": "Bachelor",
       "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
+      "endDate": "2020-01-01",
+      "gpa": "4.0"
     }
   ],
   "awards": [
@@ -112,8 +107,12 @@
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "Thai",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Beginner"
     }
   ],
   "interests": [
